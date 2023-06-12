@@ -12,9 +12,9 @@ module.exports = {
     swcPlugins: [
       [
         '@formatjs/swc-plugin-experimental',
-        {
-          ast: true,
-        },
+        // {
+        //   ast: true,
+        // },
       ],
     ],
   },
